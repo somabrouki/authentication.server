@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 import javax.servlet.http.HttpServletResponse;
 
 @RestController
-@RequestMapping(value = "/auth")
+@RequestMapping(value = "/api")
 public class AuthenticatingController {
 
     @Autowired
