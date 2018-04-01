@@ -1,4 +1,4 @@
-package com.somabrouki.authentication.server;
+package com.somabrouki.authentication;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
